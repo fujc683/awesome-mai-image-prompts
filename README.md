@@ -35,7 +35,7 @@ MAI-Image 2.6 is known for Microsoft image model with up to 5 reference images. 
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-22
+- Last updated: 2026-10-23
 - apimart.ai/model/mai-image-2-6
 
 ## Browse by Category
