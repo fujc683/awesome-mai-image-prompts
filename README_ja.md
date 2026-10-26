@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 APIMart で MAI-Image 2.6 を使って生成 · apimart.ai/model/mai-image-2-6](https://gola.apimart.ai/k-gIJm7l)**
+
+`https://gola.apimart.ai/k-gIJm7l`
 [💰 Pricing](https://gola.apimart.ai/k-VTRbwD) · [🔑 Get an API key](https://gola.apimart.ai/k-zoFKbn)
 
 

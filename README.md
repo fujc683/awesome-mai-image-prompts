@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with MAI-Image 2.6 on APIMart · apimart.ai/model/mai-image-2-6](https://gola.apimart.ai/k-gIJm7l)**
+
+`https://gola.apimart.ai/k-gIJm7l`
 [💰 Pricing](https://gola.apimart.ai/k-VTRbwD) · [🔑 Get an API key](https://gola.apimart.ai/k-zoFKbn)
 
 
@@ -35,7 +37,7 @@ MAI-Image 2.6 is known for Microsoft image model with up to 5 reference images. 
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-21
 - apimart.ai/model/mai-image-2-6
 
 ## Browse by Category
